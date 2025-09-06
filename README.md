@@ -1,7 +1,7 @@
 # Project-Opulus
 
 ## Overview
-Project-Opulus is a **prototype** social media algorithm simulator application developed using the Regulate framework on Replit in just **10 minutes**. It is designed to visualize and experiment with how different algorithm parameters impact content distribution and user engagement in a simulated environment. The system uses AI-powered bots that autonomously create posts and interact with content, enabling a dynamic and real-time analytics-driven study of social media algorithms.
+Project-Opulus is a **prototype** social media algorithm simulator application developed using Replit in just **10 minutes**. It is designed to visualize and experiment with how different algorithm parameters impact content distribution and user engagement in a simulated environment. The system uses AI-powered bots that autonomously create posts and interact with content, enabling a dynamic and real-time analytics-driven study of social media algorithms.
 
 This project offers a unique platform to understand and analyze the behavior of social media content flow and engagement through a highly customizable and interactive simulation.
 
