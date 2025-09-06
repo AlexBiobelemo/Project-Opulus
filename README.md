@@ -1,7 +1,7 @@
 # Project-Opulus
 
 ## Overview
-Project-Opulus is a social media algorithm simulator application designed to visualize and experiment with how different algorithm parameters impact content distribution and user engagement in a simulated environment. The system uses AI-powered bots that autonomously create posts and interact with content, enabling a dynamic and real-time analytics-driven study of social media algorithms.
+Project-Opulus is a **prototype** social media algorithm simulator application developed using the Regulate framework on Replit in just **10 minutes**. It is designed to visualize and experiment with how different algorithm parameters impact content distribution and user engagement in a simulated environment. The system uses AI-powered bots that autonomously create posts and interact with content, enabling a dynamic and real-time analytics-driven study of social media algorithms.
 
 This project offers a unique platform to understand and analyze the behavior of social media content flow and engagement through a highly customizable and interactive simulation.
 
@@ -13,6 +13,10 @@ This project offers a unique platform to understand and analyze the behavior of 
 - **User interface**: Intuitive UI components allow easy control over simulation settings and parameter adjustments.
 - **Data logging**: Simulation runs are logged for further analysis and performance review.
 - **Built with TypeScript and CSS**: Modern web technologies power the frontend and backend logic for real-time responsiveness and style.
+
+## Known Limitations
+- Some features, such as **content details viewing** and **bot editing**, are currently **not working** and remain under development.
+- As a rapid prototype, the system prioritizes core simulation functionality over completeness and stability.
 
 ## Use Cases
 - **Social media platform research**: Helps researchers and developers understand the impact of different algorithmic rules on content visibility and user engagement.
@@ -39,21 +43,22 @@ npm start
 - React for UI components and visualization
 - CSS for styling
 - AI and simulation algorithms implemented within bots and analytics modules
+- Built with Regulate framework
+- Rapidly prototyped and hosted on Replit
 
 ## License
 This project is licensed under the MIT License.
 
 ***
 
-This expanded README provides a comprehensive introduction to the project, its key features, practical use cases, and technical setup information. Let me know if more specific technical or contribution details should be included!
+This version clearly communicates the rapid prototype nature, development context on Replit, and current limitations alongside the rest of the project's description. Let me know if this meets expectations or if other adjustments are needed!
 
 Citations:
-[1] Understanding Social Media Recommendation Algorithms https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms
-[2] Everything You Need to Know About Social Media Algorithms https://sproutsocial.com/insights/social-media-algorithms/
-[3] AI in Social Media: Use Cases, Top Tools, and Challenges - Itransition https://www.itransition.com/ai/social-media
-[4] [PDF] The Pros and Cons of Social Media Algorithms https://bipartisanpolicy.org/download/?file=%2Fwp-content%2Fuploads%2F2023%2F10%2FBPC_Tech-Algorithm-Tradeoffs_R01.pdf
-[5] How Do Social Media Algorithms Work in 2025? - QuickFrame https://quickframe.com/blog/how-do-social-media-algorithms-work/
-[6] Social Media Algorithm and How They Work in 2025 - Sprinklr https://www.sprinklr.com/blog/social-media-algorithm/
-[7] How Social Media Algorithms Impact Brand Strategy | CETDIGIT https://www.cetdigit.com/blog/how-social-media-algorithms-impact-brand-strategy-cetdigit
-[8] How Do Social Media Algorithms Work? - Digital Marketing Institute https://digitalmarketinginstitute.com/blog/how-do-social-media-algorithms-work
-[9] Social media algorithm: 2025 guide for all major networks https://blog.hootsuite.com/social-media-algorithm/
+[1] Rapid prototyping - Replit https://replit.com/usecases/rapid-prototyping
+[2] How to Build a Replit Clone with Socket.io, Monaco Editor, and ... https://www.freecodecamp.org/news/how-to-build-a-replit-clone-with-socketio-monaco-editor-and-copilotkit/
+[3] Complete Guide to Building and Deploying Your First App with Replit https://learn.thedesignsystem.guide/p/complete-guide-to-building-and-deploying
+[4] Development vs Production Environments : r/replit - Reddit https://www.reddit.com/r/replit/comments/1kkd6nq/development_vs_production_environments/
+[5] Idea to prototype on Replit | Replit | 16 comments - LinkedIn https://www.linkedin.com/posts/repl-it_idea-to-prototype-on-replit-activity-7286466537354407937-lEFz
+[6] Replit – Build apps and sites with AI https://replit.com
+[7] Prototype - Replit https://replit.com/@Protobot/Prototype
+[8] Bridging the Gap: From Concept to Product on Replit - Arsturn https://www.arsturn.com/blog/bridging-the-gap-from-concept-to-product-on-replit
