@@ -40,7 +40,6 @@ npm start
 - React for UI components and visualization
 - CSS for styling
 - AI and simulation algorithms implemented within bots and analytics modules
-- Built with Regulate framework
 - Rapidly prototyped and hosted on Replit
 
 ## License
