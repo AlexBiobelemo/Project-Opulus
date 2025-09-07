@@ -14,9 +14,6 @@ This project offers a unique platform to understand and analyze the behavior of 
 - **Data logging**: Simulation runs are logged for further analysis and performance review.
 - **Built with TypeScript and CSS**: Modern web technologies power the frontend and backend logic for real-time responsiveness and style.
 
-## Known Limitations
-- Some features, such as **content details viewing** and **bot editing**, are currently **not working** and remain under development.
-- As a rapid prototype, the system prioritizes core simulation functionality over completeness and stability.
 
 ## Use Cases
 - **Social media platform research**: Helps researchers and developers understand the impact of different algorithmic rules on content visibility and user engagement.
